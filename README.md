@@ -1,6 +1,5 @@
-![Kiku](assets/icon.png#image)
-
-# Should I Deploy for Visual Studio Code
+<h2 align="center"><img src="https://github.com/gpalomar/shouldideploy-vscode/blob/main/assets/icon.png?raw=true" height="128"><br>Shoul I Deploy for Visual Studio Code</h2>
+<br/>
 
 This is a Visual Studio Code Extension that uses [https://github.com/baires/shouldideploy](shouldideploy.today) API endpoint [https://shouldideploy.today/api](https://shouldideploy.today/api).
 
