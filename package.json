@@ -3,6 +3,7 @@
 	"displayName": "shouldideploy",
 	"description": "Should I Deploy Visual Studio Code extension that uses https://github.com/baires/shouldideploy.",
 	"icon": "assets/icon.png",
+	"publisher": "gpalomar",
 	"repository": {
 		"type" : "git",
 		"url" : "https://github.com/gpalomar/shouldideploy-vscode"
