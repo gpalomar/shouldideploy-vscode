@@ -7,9 +7,7 @@ This is a Visual Studio Code Extension that uses [https://github.com/baires/shou
 <br/>
 
 <div align="center">
-    <video width="600" controls autoplay="autoplay">
-        <source src="https://github.com/gpalomar/shouldideploy-vscode/blob/main/assets/sample.mov?raw=true" type="video/mp4">
-    </video>
+    <img src="https://github.com/gpalomar/shouldideploy-vscode/blob/main/assets/sample.gif?raw=true" width="600" />
 </div>
 
 <br/>
