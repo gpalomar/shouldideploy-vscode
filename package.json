@@ -9,7 +9,7 @@
 		"url" : "https://github.com/gpalomar/shouldideploy-vscode"
 	},
 	"homepage": "https://github.com/gpalomar/shouldideploy-vscode/blob/main/README.md",
-	"version": "0.0.3",
+	"version": "0.0.4",
 	"engines": {
 		"vscode": "^1.51.0"
 	},
@@ -17,7 +17,7 @@
 		"Other"
 	],
 	"activationEvents": [
-		"*"
+		"onStartupFinished"
 	],
 	"main": "./out/extension.js",
 	"scripts": {
